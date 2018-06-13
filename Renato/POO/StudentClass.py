@@ -6,3 +6,5 @@ class Student:
   def print_details(self):
     print(f'name: {self.name}')
     print(f'score: {self.score}')
+  def getAverage(self):
+    pass
