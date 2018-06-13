@@ -13,13 +13,11 @@
 
 """
 myList = []
-sum = 0
 while True:
   num = input('')
   if num.isnumeric():
-     sum += int(num)
-     myList.append(sum)
+     myList.append(int(num))
   else:
     break
-prom = sum / len(myList)
+prom = sum(myList) / len(myList)
 print(f'Promedio: {prom}')
