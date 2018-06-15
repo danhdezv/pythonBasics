@@ -5,3 +5,5 @@ This is the repo to the basic python class
 [Introducción a POO](https://docs.google.com/presentation/d/1rmnRj2FuXZt61ijU_Iakv-WAcNKdjHToxbaZa5FOFkU/edit?usp=sharing)
 
 [Libro de Python y Esencia lógica](https://drive.google.com/open?id=1RSa6MYyRb2oWyTEr3pnSlxaKlklF4y6t)
+
+[Charla geek](https://www.youtube.com/watch?v=WkAwZmCm2Fs)
