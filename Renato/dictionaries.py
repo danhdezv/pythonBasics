@@ -11,4 +11,4 @@ myBill = {
   }
 }
 
-print(myBill['fruitList']['apples'])
+print(myBill['fruitList']['apples']) # prints: 4
